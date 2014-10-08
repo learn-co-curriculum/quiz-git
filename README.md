@@ -7,6 +7,8 @@ resources: 0
 
 ## Quiz 1 - CLI & GIT
 
+Make a note of your selected answers for the questions below. The correct answers are provided at the end of the quiz along with an explanation.
+
 1. Select the command that will print the current working directory path  
 A.) path  
 B.) pwd  
