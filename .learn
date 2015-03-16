@@ -1,0 +1,9 @@
+languages:
+  - bash
+tags:
+  - cli
+  - git
+  - terminal
+type:
+  - quiz
+resources: 0
