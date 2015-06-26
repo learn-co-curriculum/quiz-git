@@ -14,19 +14,19 @@ resources: 0
 ( ) git initialize
 ( ) git open
 ( ) git create
-( ) git init
+(X) git init
 
 ?: 2. Select the command used to see the current status of files in a git repository
 
 ( ) git init
 ( ) git state
-( ) git status
+(X) git status
 ( ) git log
 
 ?: 3. Select the command used to stage files
 
 ( ) git stage
-( ) git add
+(X) git add
 ( ) git init
 ( ) git status
 
@@ -34,7 +34,7 @@ resources: 0
 
 ( ) git unstage (filename)
 ( ) git add -d (filename)
-( ) git reset (filename)
+(X) git reset (filename)
 ( ) git rm (filename)
 
 ?: 5. Select the command used to commit files
@@ -42,18 +42,18 @@ resources: 0
 ( ) git save
 ( ) git add
 ( ) git reset
-( ) git commit
+(X) git commit
 
 ?: 6. Select the command used to add a new remote
 
 ( ) git add remote (remote url)
-( ) git remote add (remote name) (remote url)
+(X) git remote add (remote name) (remote url)
 ( ) git remotes (remote name)
 ( ) git remote (remote url)
 
 ?: 7. It is a convention to name the original remote you create to link to your local repo as:
 
-( ) origin
+(X) origin
 ( ) original
 ( ) upstream
 ( ) None of the above.
@@ -62,13 +62,13 @@ resources: 0
 
 ( ) git upload (remote name)
 ( ) git push (branch name) (remote name)
-( ) git push (remote name) (branch name)
+(X) git push (remote name) (branch name)
 ( ) git pull origin
 
 ?: 9. Select the command used to download and merge in code from a remote repository
 
 ( ) git download
-( ) git pull
+(X) git pull (remote name) (branch name)
 ( ) git push
 ( ) git save
 

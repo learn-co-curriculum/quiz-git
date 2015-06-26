@@ -1,9 +1,0 @@
-git init
-git status
-git add
-git reset (filename)
-git commit
-git remote add (remote name) (remote url)
-origin
-git push (remote name) (branch name)
-git pull
