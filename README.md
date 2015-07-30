@@ -1,9 +1,4 @@
----
-language: bash
-tags: git
-type: quiz
-resources: 0
----
+
 
 ???
 
